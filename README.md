@@ -1,5 +1,5 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F0F7D6&center=true&vCenter=true&random=false&width=435&lines=Hello+%F0%9F%A4%9D%E2%9D%95I+am+Pradyush+Mohapatra)](https://git.io/typing-svg) <br>
-  <style> h3{text-color="#154c79"}</style>
+  
   <h3 align="center"  >A passionate software Engineer developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradyush-mohapatra&label=Profile%20views&color=0e75b6&style=flat" alt="pradyush-mohapatra" /> </p>
