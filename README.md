@@ -1,4 +1,4 @@
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=bold&pause=1000&color=F7EBE7&random=false&width=435&lines=Hello+!+I+am+Pradyush+Mohapatra)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F0F7D6&center=true&vCenter=true&random=false&width=435&lines=Hello+%F0%9F%A4%9D%E2%9D%95I+am+Pradyush+Mohapatra)](https://git.io/typing-svg) <br>
 -🖥️I’m a student currently learning Data Structures and Algorithms
 - 🌱 I’m pursuing Computer Science Engineering
 <!--- 💞️ I’m looking to collaborate on ...-->
