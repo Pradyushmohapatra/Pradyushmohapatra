@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradyush-mohapatra&label=Profile%20views&color=0e75b6&style=flat" alt="pradyush-mohapatra" /> </p>
 
+ -🖥️I’m a student currently learning Data Structures and Algorithms 
+ - 🌱 I’m pursuing Computer Science Engineering 
 - 📫 How to reach me **pradyushmohapatra9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -17,12 +19,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pradyush-mohapatra&show_icons=true&locale=en&layout=compact" alt="pradyush-mohapatra" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pradyush-mohapatra&show_icons=true&locale=en" alt="pradyush-mohapatra" /></p>
-
- -🖥️I’m a student currently learning Data Structures and Algorithms 
- - 🌱 I’m pursuing Computer Science Engineering 
-<!--- 💞️ I’m looking to collaborate on ...-->
- - 📫 How to reach me <br> </Span>
-   <span>   ✉️pradyushmohapatra9@gmail.com 
+ 
+ 
   
    
 [![An image of @pradyushmohapatra's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pradyushmohapatra)](https://holopin.io/@pradyushmohapatra)
